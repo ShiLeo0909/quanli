@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BTTC/BTTC.iml" filepath="$PROJECT_DIR$/BTTC/BTTC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LapTrinhCoBan/LapTrinhCoBan.iml" filepath="$PROJECT_DIR$/LapTrinhCoBan/LapTrinhCoBan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NhapMonLapTrinh/NhapMonLapTrinh.iml" filepath="$PROJECT_DIR$/NhapMonLapTrinh/NhapMonLapTrinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/src/oop1.iml" filepath="$PROJECT_DIR$/oop/src/oop1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/src/oop4/oop4.iml" filepath="$PROJECT_DIR$/oop/src/oop4/oop4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/src/oop5/oop5.iml" filepath="$PROJECT_DIR$/oop/src/oop5/oop5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/src/oop6/oop6.iml" filepath="$PROJECT_DIR$/oop/src/oop6/oop6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/src/thigiaki2/thigiaki2.iml" filepath="$PROJECT_DIR$/oop/src/thigiaki2/thigiaki2.iml" />
+    </modules>
+  </component>
+</project>

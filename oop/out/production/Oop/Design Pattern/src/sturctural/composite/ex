@@ -1,0 +1,17 @@
+ex
+Một hệ thống tập tin là một cấu trúc cây có chứa các nhánh là các thư mục (folder – composite), cũng như các nút lá là các tệp (file – leaf). Một folder có thể chứa một hoặc nhiều file hoặc folder. Do đó, folder là một đối tượng phức tạp và file là một đối tượng đơn giản. File và Folder có nhiều thao tác và thuộc tính chung, chẳng hạn như: di chuyển (cut) , sao chép (copy), liệt kê (view) hoặc các thuộc tính thư mục như tên tệp và kích thước.
+
+Với cấu trúc như vậy sẽ dễ dàng và thuận tiện hơn để quản lý file và folder thống nhất bằng cách xây dựng một Interface có đầy đủ các phương thức và thuộc tính chung cho cả file và folder
+
+
+
+
+
+Lợi ích của Composite Pattern là gì?
+Cung cấp cùng một cách sử dụng đối với từng đối tượng riêng lẻ hoặc nhóm các đối tượng với nhau
+
+
+
+Sử dụng Composite Pattern khi nào?
+Composite Pattern chỉ nên được áp dụng khi nhóm đối tượng phải hoạt động như một đối tượng duy nhất (theo cùng một cách).
+Composite Pattern có thể được sử dụng để tạo ra một cấu trúc giống như cấu trúc cây.

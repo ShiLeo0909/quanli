@@ -1,0 +1,57 @@
+Test ArrayVector
+Thêm vào tọa độ
+[1.0 2.0 3.0 4.0]
+Công thêm giá trị value
+[3.0 4.0 5.0 6.0]
+Cộng thêm vecto
+[6.0 8.0 10.0 12.0]
+Trừ tạo độ với giá trị value
+[4.0 6.0 8.0 10.0]
+Trừ cho vecto khac
+[3.0 4.0 5.0 6.0]
+Tính Vô Hương
+50.0
+Mũ các phần tử trong vecto
+[9.0 16.0 25.0 36.0]
+Các phần tử nhân với giá trị value
+[4.5 8.0 12.5 18.0]
+Chuẩn của vecto
+23.759208741033444
+Thêm một gái trị vào ví trí index
+[2.0 4.5 8.0 12.5 18.0]
+Xoa Phan tu o vi tri index
+[2.0 8.0 12.5 18.0]
+Trích xuất ra vector con
+[12.5 8.0]
+-------------------------------------------------------------
+Test ListVecTor
+Thêm vào tọa độ
+[1.0 1.0 1.0 1.0 1.0]
+Cộng thêm giá trị value vào từng vị trí
+[2.0 2.0 2.0 2.0 2.0]
+Cộng thêm vecto
+[3.0 3.0 3.0 3.0 3.0]
+Trừ đi giá trị value
+[2.0 2.0 2.0 2.0 2.0]
+Trừ đi một vecto khác
+[1.0 1.0 1.0 1.0 1.0]
+Nhân vơi giá trị vulue
+[2.0 2.0 2.0 2.0 2.0]
+Chuẩn của vecto
+4.47213595499958
+Thêm phần tư vào ví trí index
+[2.0 2.0 2.0 3.0 2.0 2.0]
+Xoa phan tu ở ví trí index
+[2.0 2.0 2.0 2.0 2.0]
+Trích xuất vecto con
+[2.0 2.0]
+Chuẩn lớn trong các vector
+11.0
+Chuẩn bé nhất trong các vector
+1.0
+Rank của theo chuẩn vector
+[5.0, 3.0, 1.0, 10.0, 9.0, 2.0, 4.0, 8.0, 7.0, 6.0]
+Sắp xếp theo chuẩn của các vector
+[[1.0], [2.0], [3.0], [4.0], [5.0], [6.0], [7.0], [8.0], [9.0], [11.0]]
+Chuẩn của vector chạy trong khoảng quy định
+[[1.0], [2.0], [3.0], [4.0], [5.0], [6.0], [7.0], [8.0], [9.0]]

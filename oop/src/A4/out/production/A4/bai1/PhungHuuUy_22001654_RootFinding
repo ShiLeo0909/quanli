@@ -1,0 +1,14 @@
+Bisection Method:
+Function: x.sin(x) - 3
+Interval: [12.0, 14.0]
+Root: 13.0
+
+Newton-Raphson Method:
+Function: x.sin(x) - 3
+Interval: [12.0, 14.0]
+Root: 13.0
+
+Secant Method:
+Function: x.sin(x) - 3
+Interval: [12.0, 14.0]
+Root: 0.0
